@@ -7,11 +7,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar654321&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar654321" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumar6603&label=Profile%20views&color=0e75b6&style=flat" alt="amankumar6603" /> </p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankumar654321" alt="amankumar654321" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankumar6603" alt="amankumar6603" /></a> </p>
 
 
 
