@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/amankum50530776" target="blank"><img src="https://img.shields.io/twitter/follow/amankum50530776?logo=twitter&style=for-the-badge" alt="amankum50530776" /></a> </p>
 
-- 🔭 I’m currently working on [OpenSearch](https://github.com/opensearch-project/OpenSearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- 🔭 I’m currently working on [Kubernates](https://kubernetes.io/)
 
 - 🌱 I’m currently learning **K8s,Docker,Python, Java, SpringBoot**
 
-- 👯 I’m looking to collaborate on [OpenSearch](https://github.com/opensearch-project/OpenSearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- 👯 I’m looking to collaborate on [Kubernates](https://kubernetes.io/)
 
-- 🤝 I’m looking for help with [OpenSearch](https://github.com/opensearch-project/OpenSearch/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- 🤝 I’m looking for help with [Kubernates](https://kubernetes.io/)
 
 - 💬 Ask me about **K8s,Backend,Java, python, Docker, SpringBoot,Debugging, MySQL, database,**
 
